@@ -5,9 +5,7 @@
 #include <stdio.h>
 
 int main() {
-  float avg;
-  int mark1,mark2;
-
+  
   printf("Input mark:");
   scanf("%d",&mark1);
   printf("Input mark:");
